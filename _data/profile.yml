@@ -1,61 +1,66 @@
-primary_name: "Your Name"
+primary_name: "Chiung-Yi Tseng"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Chiung-Yi Tseng"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+- name: Independent Researcher
+- name: AI4Math, AI for Math, Interpretability Research
 
 
-email: "your@email.com"
+email: "ctseng@luxmuse.ai"  # Update with your actual email
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: LJpMtqIAAAAJ
+github: ctseng777
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+linkedin: ctseng612
+orcid: 0009-0001-6153-2401
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am an independent researcher, focusing on AI4Math and model interpretability research. 
+    My research interests lie at the intersection of large language models, mathematical reasoning, and model interpretability.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I completed my MS in Computer Science at the University of North Carolina at Chapel Hill and my undergraduate degree 
+    at National Central University. Looking for research opportunities/collaborations.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Add your portrait caption here (optional)
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
+- logo: /assets/images/logos/UNC.jpeg
+  name: University of North Carolina at Chapel Hill
+  position: M.S. in Computer Science
+  date: 2009 - 2011
+- logo: /assets/images/logos/NCU.png
+  name: National Central University
   position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: 2005 - 2009
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- logo: /assets/images/logos/Sambanova.png
+  name: SambaNova Systems
+  position: Senior Principal Software Engineer
+  date: 2024 - present
+- logo: /assets/images/logos/StabilityAI.jpeg
+  name: Stability AI
+  position: Staff Software Engineer
+  date: 2023 - 2024
+- logo: /assets/images/logos/Twilio.jpeg
+  name: Twilio
+  position: Staff Software Engineer
+  date: 2019 - 2022
+- logo: /assets/images/logos/Amazon.png
+  name: Amazon
+  position: Software Engineer
+  date: 2017 - 2019
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name
+#   date: 2024
