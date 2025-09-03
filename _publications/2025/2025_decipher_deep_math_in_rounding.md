@@ -16,5 +16,5 @@ abstract: >-
 cover: /assets/images/covers/rounding.png  
 
 links:
-  Code: file:///Users/moonshine/workspace/Decipher-Deep-Math-in-Rounding/index.html
+  Code: https://ctseng777.github.io/Decipher-Deep-Math-in-Rounding/
 ---
