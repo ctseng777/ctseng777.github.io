@@ -2,7 +2,9 @@
 title: "Diffusion-based Large Language Models Survey"
 authors:
 - Chiung-Yi Tseng
-- Others
+- Danyang Zhang
+- Ziqian Bi
+- Junhao Song
 venue: "TechRxiv Preprint"
 date: 2025-08-26
 doi: "10.36227/techrxiv.175502932.20939890/v2"
