@@ -1,5 +1,5 @@
 ---
-title: "Decipher Deep Math: Numeric Rounding Behaviors in LLMs"
+title: "Dream Diary: Case Study on Diffusion LLM’s Arithmetic Behavior"
 authors:
 - Chiung-Yi Tseng
 - Maisha Thasin
