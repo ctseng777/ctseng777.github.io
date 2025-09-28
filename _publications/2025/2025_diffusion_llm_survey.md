@@ -11,7 +11,7 @@ doi: "10.36227/techrxiv.175502932.20939890/v2"
 arxiv: ""
 TechRxiv: "https://www.techrxiv.org/users/952417/articles/1321784-diffusion-based-large-language-models-survey"
 type: "preprint"
-selected: true
+selected: false
 project: "https://ai-agent-lab.github.io/dllms/"
 cover:          /assets/images/covers/Slide.png
 abstract: >-
