@@ -20,4 +20,3 @@ links:
   Code: "https://anonymous.4open.science/r/judgment-to-noise-947D/"
   Paper: "https://arxiv.org/pdf/2509.20293v1"
 ---
-A comprehensive evaluation of OpenAI's latest open source models, analyzing the performance of mixture of experts architectures and providing insights into the effectiveness of different parameter scales in open weight language models.
