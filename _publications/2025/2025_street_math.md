@@ -12,5 +12,5 @@ abstract: >-
 
 links:
   Code: "https://anonymous.4open.science/r/StreetMath-1/"
-  Paper: "https://openreview.net/pdf?id=gU20Mpzm0y"
+  PDF: "/assets/pdf/StreetMath_2025.pdf"
 ---
