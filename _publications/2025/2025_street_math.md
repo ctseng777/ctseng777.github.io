@@ -1,7 +1,8 @@
 ---
-title: "StreetMath: Study of LLMs’ Approximation Behaviors (Under Review)"
+title: "StreetMath: Study of LLMs’ Approximation Behaviors"
 authors:
 - 
+venue: "Neurips 2025 - MathAI Workshop"
 date: 2025-09-26
 type: "preprint"
 selected: true

@@ -86,7 +86,11 @@ div.lazy {
     font-size: 100%;
 }
 
+.venue-badge {
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
 .email-text {
     font-family: Courier, monospace;
 }
-

@@ -7,7 +7,7 @@ authors:
 - Somshubhra Roy
 - Danyang Zhang
 
-venue: "Neurips WiML Workshop"
+venue: "Neurips 2025 - WiML Workshop"
 date: 2025-09-26
 arxiv: "2504.16136"
 type: "preprint"
