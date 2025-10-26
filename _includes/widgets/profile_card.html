@@ -93,6 +93,17 @@
                             <i class="fab fa-orcid"></i> ORCID
                         </a>
                         {% endif %}
+
+                        {% if site.data.profile.huggingface and site.data.profile.huggingface != '' %}
+                        {%- if site.data.profile.huggingface contains 'huggingface.co' -%}
+                        {%- assign hf_url = site.data.profile.huggingface -%}
+                        {%- else -%}
+                        {%- assign hf_url = 'https://huggingface.co/' | append: site.data.profile.huggingface -%}
+                        {%- endif -%}
+                        <a class="pr-3 no-break" target="_blank" href="{{ hf_url }}">
+                            <i class="fab fa-huggingface"></i> Hugging Face
+                        </a>
+                        {% endif %}
                     </div>
                 </div>
             </div>
