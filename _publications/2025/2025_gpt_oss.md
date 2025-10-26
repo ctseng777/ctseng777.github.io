@@ -13,6 +13,7 @@ authors:
 - Junfeng Hao
 - Junhao Song
 venue: "arXiv preprint"
+acceptance: 
 date: 2025-08-17
 arxiv: "2508.12461"
 type: "preprint"

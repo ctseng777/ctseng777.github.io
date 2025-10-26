@@ -94,3 +94,9 @@ div.lazy {
 .email-text {
     font-family: Courier, monospace;
 }
+
+/* Acceptance status block */
+.acceptance-badge {
+    background-color: #007bff;
+    color: #ffffff;
+}

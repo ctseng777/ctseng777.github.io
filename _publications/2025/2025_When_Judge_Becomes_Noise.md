@@ -8,6 +8,7 @@ authors:
 - John P Dickerson
 
 venue: "arXiv preprint"
+acceptance: "Under Review"
 date: 2025-09-24
 arxiv: "2509.20293"
 type: "preprint"

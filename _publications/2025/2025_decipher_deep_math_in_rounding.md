@@ -6,7 +6,8 @@ authors:
 - Danyang Zhang
 - Blessing Effiong
 - Somshubhra Roy
-venue: "DeepMath"
+venue: "DeepMath-2025"
+acceptance: "Accepted"
 date: 2025-01-01
 arxiv: "2504.16136"
 type: "preprint"

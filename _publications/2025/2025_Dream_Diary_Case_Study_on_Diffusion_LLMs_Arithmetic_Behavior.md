@@ -8,6 +8,7 @@ authors:
 - Danyang Zhang
 
 venue: "Neurips 2025 - WiML Workshop"
+acceptance: "Poster"
 date: 2025-09-26
 arxiv: "2504.16136"
 type: "preprint"

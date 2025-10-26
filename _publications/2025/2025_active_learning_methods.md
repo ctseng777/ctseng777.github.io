@@ -8,6 +8,7 @@ authors:
 - Chiung-Yi Tseng
 - Ming Liu
 venue: "CoRR (arXiv preprint)"
+acceptance: "Preprint"
 date: 2025-01-01
 arxiv: "2504.16136"
 type: "preprint"
