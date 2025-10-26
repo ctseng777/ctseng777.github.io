@@ -1,10 +1,10 @@
 ---
 title: "Is GPT-OSS Good? A Comprehensive Evaluation of OpenAI's Latest Open Source Models"
 authors:
-- Ziqian Bi
-- Keyu Chen
-- Chiung-Yi Tseng
-- Danyang Zhang
+- Ziqian Bi*
+- Keyu Chen*
+- Chiung-Yi Tseng*
+- Danyang Zhang*
 - Tianyang Wang
 - Hongying Luo
 - Lu Chen

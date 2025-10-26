@@ -18,6 +18,5 @@ abstract: >-
 cover: /assets/images/covers/dllm_math.png  
 
 links:
-  Paper: https://openreview.net/pdf?id=3Kp1levKEe
-  Code: https://github.com/ctseng777/DreamDiary
+  PDF: assets/pdf/WiML___DiffusionLLMLens.pdf
 ---
