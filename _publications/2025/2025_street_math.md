@@ -10,6 +10,7 @@ authors:
 venues:
   - "Neurips 2025 - MathAI Workshop"
   - "Neurips 2025 - WiML Workshop"
+  - "arXiv preprint"
 acceptance: "Poster"
 date: 2025-09-26
 type: "preprint"

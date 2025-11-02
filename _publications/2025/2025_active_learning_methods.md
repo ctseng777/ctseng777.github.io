@@ -7,7 +7,7 @@ authors:
 - Chia Xin Liang
 - Chiung-Yi Tseng
 - Ming Liu
-venue: "CoRR (arXiv preprint)"
+venue: arXiv preprint
 acceptance: "Preprint"
 date: 2025-01-01
 arxiv: "2504.16136"
