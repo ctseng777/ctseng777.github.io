@@ -20,7 +20,7 @@ huggingface: https://huggingface.co/Chiung-Yi
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    My research centers on advancing AI-assisted mathematical proof, autoformalization, formal verification, and interpretable reasoning as interrelated approaches to aligning AI systems with human values. These directions directly address the pressing challenge of LLM opacity and the need for provably beneficial AI. While large language models (LLMs) exhibit remarkable capabilities, they largely remain “black boxes”—deep, inscrutable systems whose reasoning processes are hidden [Jiang et al., 2023b]. This opacity poses serious risks in safety-critical domains[Han et al., 2021], eroding trust and allowing subtle errors to go unnoticed. My recent research on LLM-as-judge confirms the unreliability of LLM-based evaluations widely adopted in research settings [Feuer et al., 2025]. My submission to Neurips 2025 MathAI workshop "StreetMath: Study of LLMs’ Approximation Behaviors" investigates approximation behaviors in LLMs and reveals their divergence from human reasoning patterns in everyday contexts,
+    My research centers on advancing AI-assisted mathematical proof, autoformalization, formal verification, and interpretable reasoning as interrelated approaches to aligning AI systems with human values. These directions directly address the pressing challenge of LLM opacity and the need for provably beneficial AI. 
 
 portrait_url: /assets/images/photos/portrait.png
 # portrait_caption: >-
