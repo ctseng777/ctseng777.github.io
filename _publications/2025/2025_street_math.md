@@ -6,8 +6,10 @@ authors:
 - Maisha Thasin
 - Blessing Effiong
 - Danyang Zhang
- 
-venue: "Neurips 2025 - MathAI Workshop"
+
+venues:
+  - "Neurips 2025 - MathAI Workshop"
+  - "Neurips 2025 - WiML Workshop"
 acceptance: "Poster"
 date: 2025-09-26
 type: "preprint"
@@ -19,5 +21,5 @@ abstract: >-
 
 links:
   Code: "https://ctseng777.github.io/StreetMathProject/"
-  PDF: "/assets/pdf/StreetMath_2025.pdf"
+  Paper: "https://arxiv.org/abs/2510.25776"
 ---

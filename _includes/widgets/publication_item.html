@@ -11,9 +11,20 @@
         <div class="col-md-9 col-xl-10 p-3 pl-md-0">
             <h5 class="mt-0 mb-1 font-weight-normal">
                 {{ item.title }}
-                {% if item.venue %}
-                <span class="badge badge-danger venue-badge">{{ item.venue }}</span>
-                {% endif %}
+                {%- if item.venues -%}
+                  {%- for v in item.venues -%}
+                  <span class="badge badge-danger venue-badge">{{ v | strip }}</span>
+                  {%- endfor -%}
+                {%- elsif item.venue -%}
+                  {%- if item.venue contains ',' -%}
+                    {%- assign _venues = item.venue | split: ',' -%}
+                    {%- for v in _venues -%}
+                    <span class="badge badge-danger venue-badge">{{ v | strip }}</span>
+                    {%- endfor -%}
+                  {%- else -%}
+                    <span class="badge badge-danger venue-badge">{{ item.venue }}</span>
+                  {%- endif -%}
+                {%- endif -%}
                 {% if item.acceptance %}
                 <span class="badge badge-primary acceptance-badge">{{ item.acceptance }}</span>
                 {% endif %}
@@ -43,9 +54,20 @@
             <div>
                 <h5 class="mt-0 mb-1 font-weight-normal">
                     {{ item.title }}
-                    {% if item.venue %}
-                    <span class="badge badge-danger venue-badge">{{ item.venue }}</span>
-                    {% endif %}
+                    {%- if item.venues -%}
+                      {%- for v in item.venues -%}
+                      <span class="badge badge-danger venue-badge">{{ v | strip }}</span>
+                      {%- endfor -%}
+                    {%- elsif item.venue -%}
+                      {%- if item.venue contains ',' -%}
+                        {%- assign _venues = item.venue | split: ',' -%}
+                        {%- for v in _venues -%}
+                        <span class="badge badge-danger venue-badge">{{ v | strip }}</span>
+                        {%- endfor -%}
+                      {%- else -%}
+                        <span class="badge badge-danger venue-badge">{{ item.venue }}</span>
+                      {%- endif -%}
+                    {%- endif -%}
                     {% if item.acceptance %}
                     <span class="acceptance-badge">{{ item.acceptance }}</span>
                     {% endif %}
