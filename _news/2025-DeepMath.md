@@ -1,4 +1,4 @@
 ---
-title: "Our abstract: \"Decipher Deep Math in Rounding\" has been accepted by DeepMath!"
-date: 2025-10-19 00:01:00 +0800
+title: "See you at DeepMath - Ann Arbor, MI!"
+date: 2025-11-02 00:01:00 +0800
 ---

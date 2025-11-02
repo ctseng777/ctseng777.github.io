@@ -1,4 +1,4 @@
 ---
-title: "We are submitting our work on StreetMath to Arxiv. Stay tuned!"
-date: 2025-10-19 00:01:00 +0800
+title: "Our paper: \"StreetMath: Study of LLMs’ Approximation Behaviors\" is accepted by arXiv! https://arxiv.org/abs/2510.25776"
+date: 2025-11-01 00:01:00 +0800
 ---
