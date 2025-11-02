@@ -7,9 +7,9 @@ pages:
   url: /publications
 #- name: Showcase
 #  url: /showcase
-- name: Statement of Purpose
-  url: /sop
-- name: CV
-  url: /cv
+# - name: Statement of Purpose
+#   url: /sop
+# - name: CV
+#   url: /cv
 #- name: Showcase
 #  url: /showcase
